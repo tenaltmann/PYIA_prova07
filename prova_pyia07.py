@@ -8,3 +8,5 @@ def lancar_dados ():
     return f'Seus dados foram lançados e os valores foram {dado1} e {dado2}, totalizando {soma_dos_dados}'
 
 
+inicio = print('SERÃO LANÇADOS DOIS DADOS .....')
+print(lancar_dados())
